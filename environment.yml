@@ -1,4 +1,4 @@
-name: ml
+name: pytorch_gpu
 channels:
   - pytorch
   - defaults
